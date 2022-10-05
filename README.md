@@ -1,6 +1,6 @@
 # Assignment2
 # Guidline
-##Please pay attention: anything outside of this template will reduce your grade
+## Please pay attention: anything outside of this template will reduce your grade
 ## please consider the following items:
 - clone main branch
 - Commit and push your java classes in src folder
